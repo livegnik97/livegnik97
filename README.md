@@ -56,23 +56,6 @@
 
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-
-  <div align="center">
-     <a href="">
-      <img align="center" src="https://gh-stats.com/api/livegnik97?show_icons=true&theme=react" />
-    </a>
-    <a href="">
-      <img align="center" src="https://gh-stats.com/api/top-langs/livegnik97?theme=react&hide=css" />
-    </a>
-</div>
-
-<br/>
-
----
-
  ### ⭐️ From [livegnik97](https://github.com/livegnik97) ###
 
 ---
