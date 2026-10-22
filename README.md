@@ -65,7 +65,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=livegnik97&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livegnik97&theme=react&line_height=40&hide=css" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=livegnik97&theme=react&line_height=40&hide=css" />
     </a>
 </div>
 
